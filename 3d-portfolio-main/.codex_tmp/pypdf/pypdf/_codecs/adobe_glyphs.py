@@ -5984,7 +5984,7 @@ adobe_glyphs = {
     "/guru:virama": "\u0A4D",
     "/guru:visarga": "\u0A03",
     "/guru:ya": "\u0A2F",
-    "/guru:yakashsign": "\u0A75",
+    "/guru:ygauravsign": "\u0A75",
     "/guru:za": "\u0A5B",
     "/guru:zero": "\u0A66",
     "/gyfullwidth": "\u33C9",
